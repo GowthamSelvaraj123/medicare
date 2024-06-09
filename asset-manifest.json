@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f544f85f.css",
-    "main.js": "/static/js/main.cbf95dfe.js",
+    "main.css": "/static/css/main.205e654a.css",
+    "main.js": "/static/js/main.d81d0ab2.js",
     "static/js/453.7bc05926.chunk.js": "/static/js/453.7bc05926.chunk.js",
     "static/media/doctorinfo.jpg": "/static/media/doctorinfo.33478274f8262ce17b21.jpg",
     "static/media/home-banner.jpg": "/static/media/home-banner.12ce368446755e3c955b.jpg",
@@ -9,21 +9,29 @@
     "static/media/michael-rodriguez.jpg": "/static/media/michael-rodriguez.8019bc959f23aded37c5.jpg",
     "static/media/about-1.png": "/static/media/about-1.6a3ec4aa5a8c38db800f.png",
     "static/media/about-2.png": "/static/media/about-2.5bd0135610df711d131f.png",
+    "static/media/blog2.png": "/static/media/blog2.6a97a95427921def6c93.png",
     "static/media/testimonial-1.jpg": "/static/media/testimonial-1.9a69c8a76a0f589751a3.jpg",
     "static/media/dr-matthew-wood.jpg": "/static/media/dr-matthew-wood.fe2269090ca94470e989.jpg",
+    "static/media/blog1.jpg": "/static/media/blog1.0fd38cadf77eb160500f.jpg",
     "static/media/testimonial-2.jpg": "/static/media/testimonial-2.18eadcc3698080c9f2a0.jpg",
     "static/media/emiley-jackson.jpg": "/static/media/emiley-jackson.82713ef6e50a23399f73.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.4ef5fad1bf7133ab563a26bece7dedb1.svg",
     "static/media/general-surgery.svg": "/static/media/general-surgery.919e271014629d7d63caf61483a39929.svg",
+    "static/media/location.svg": "/static/media/location.7d98c06c085fa0f1a98f98e9848021de.svg",
     "static/media/physical-therapy.svg": "/static/media/physical-therapy.2d182722cdb0500adaffe5c40dfebc80.svg",
     "static/media/counselling-services.svg": "/static/media/counselling-services.56d4eecda9677846b4d5a3c68480c0d5.svg",
+    "static/media/telephone.svg": "/static/media/telephone.0dfda35e548e4c0c36619e022d8fa660.svg",
     "static/media/lab-testing.svg": "/static/media/lab-testing.12680b87452d949d525bb7a27c375d3d.svg",
+    "static/media/mail.svg": "/static/media/mail.f6b151299173b9be846481cd297defae.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.a31e3d98d515a7e505944fc307773ea7.svg",
+    "static/media/facebook.svg": "/static/media/facebook.dbd920ed43ca72f169228ed6ebdbaf11.svg",
     "index.html": "/index.html",
-    "main.f544f85f.css.map": "/static/css/main.f544f85f.css.map",
-    "main.cbf95dfe.js.map": "/static/js/main.cbf95dfe.js.map",
+    "main.205e654a.css.map": "/static/css/main.205e654a.css.map",
+    "main.d81d0ab2.js.map": "/static/js/main.d81d0ab2.js.map",
     "453.7bc05926.chunk.js.map": "/static/js/453.7bc05926.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f544f85f.css",
-    "static/js/main.cbf95dfe.js"
+    "static/css/main.205e654a.css",
+    "static/js/main.d81d0ab2.js"
   ]
 }
